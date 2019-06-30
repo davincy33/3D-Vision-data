@@ -1,4 +1,4 @@
-# 3D-Vision-data-compression
+# 3D-Vision-data
 A method to extract stereo image and convert to 3D Video.
 
 Now we will have the difference frames and the original recording from the cameras.
